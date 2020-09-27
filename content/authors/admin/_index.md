@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shravika Mittal
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: SDE at Adobe Inc.
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Adobe Inc.
+  url: "https://www.adobe.com/in/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
