@@ -56,6 +56,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Software Development Engineer at [Adobe, India](https://www.adobe.com/in/), as part of the Adobe Illustrator Team. The areas that interest me the most revolve around Social Network Analysis, Natural Language Processing and Deep Learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I completed my undergraduate studies from [IIIT-Delhi](https://www.iiitd.ac.in/) majoring in Computer Science and Engineering (with honors). During my B.Tech. I have worked with [Dr. Tanmoy Chakraborty](https://www.iiitd.ac.in/tanmoy) as part of the [Lab for Computational Social Systems](http://lcs2.iiitd.edu.in/) on various projects around Network Science, Graph Mining, and Social Network Analysis.
