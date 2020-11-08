@@ -6,9 +6,9 @@ google_fonts = "Playfair+Display:400,700|Fauna+One"
 
 # Font families
 heading_font = "Playfair Display"
-body_font = "Fauna One"
-nav_font = "Fauna One"
-mono_font = "Roboto Mono"
+body_font = "PT Serif"
+nav_font = "PT Serif"
+mono_font = "PT Serif"
 
 # Font size
 font_size = "20"
