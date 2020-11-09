@@ -10,7 +10,7 @@ title = "Updates"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 2
+weight = 30
 
 +++
 
